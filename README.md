@@ -40,20 +40,4 @@ AI Resume Analyzer is a Java Spring Boot web application that analyzes resumes a
 6. A resume match score is calculated.
 7. Matched and missing skills are displayed.
    
- ## Project Structure
- 
-src/
-├── main/
-│   ├── java/
-│   │   └── com/ayushs/resume_analyzer/
-│   │       ├── config/
-│   │       ├── controller/
-│   │       ├── dto/
-│   │       ├── entity/
-│   │       ├── repository/
-│   │       ├── resume/
-│   │       └── service/
-│   └── resources/
-│       ├── static/
-│       └── application.properties
-└── test/
+
