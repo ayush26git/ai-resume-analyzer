@@ -39,5 +39,34 @@ AI Resume Analyzer is a Java Spring Boot web application that analyzes resumes a
 5. Skills are compared automatically.
 6. A resume match score is calculated.
 7. Matched and missing skills are displayed.
+
+   ## How to Run
+
+### Prerequisites
+
+- Java JDK
+- Maven
+- PostgreSQL
+- IntelliJ IDEA
+
+### Database Configuration
+
+Create a PostgreSQL database named:
+resumeanalyzer
+
+Configure the database password using an environment variable:
+
+DB_PASSWORD=your_database_password
+Clone the Repository
+git clone https://github.com/ayush26git/ai-resume-analyzer.git
+Run the Application
+
+Open the project in IntelliJ IDEA and run:
+
+ResumeAnalyzerApplication
+
+Then open your browser and visit:
+
+http://localhost:8080/
    
 
