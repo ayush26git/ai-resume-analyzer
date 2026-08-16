@@ -65,6 +65,9 @@ Open the project in IntelliJ IDEA and run:
 
 ResumeAnalyzerApplication
 
+Author
+Ayush Srivastava
+
 Then open your browser and visit:
 
 http://localhost:8080/
